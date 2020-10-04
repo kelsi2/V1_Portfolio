@@ -243,6 +243,10 @@ th {
     text-align: inherit;
 }
 
+td {
+    padding-right: 1em;
+}
+
 label {
     display: inline-block;
     margin-bottom: 0.5rem;
@@ -10532,7 +10536,7 @@ p.lead {
 }
 
 .dev-icons {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 section.resume-section {
