@@ -184,7 +184,7 @@ a {
     background-color: transparent;
 }
 a:hover {
-    color: #824027;
+    color: hsl(210, 15%, 39%);
     text-decoration: underline;
 }
 
