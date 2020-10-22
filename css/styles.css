@@ -4638,7 +4638,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-    color: #fff;
+    color: #1649A5;
 }
 .navbar-dark .navbar-brand:hover,
 .navbar-dark .navbar-brand:focus {
@@ -6506,7 +6506,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: rgb(19, 221, 211) !important;
+    background-color: #66C0ED !important;
 }
 
 a.bg-primary:hover,
@@ -10472,7 +10472,7 @@ p.lead {
     text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-    outline-color: #d46e90;
+    outline-color: #0d2653;
 }
 
 @media (min-width: 992px) {
